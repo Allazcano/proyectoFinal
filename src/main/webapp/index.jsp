@@ -90,7 +90,7 @@
     <div class="carousel-inner">
 
         <div class="carousel-item active">
-            <img src="img/4.jpg" class="d-block w-100" alt="alt"/>
+            <img src="img/1.jpg" class="d-block w-100" alt="alt"/>
             <div class="carousel-caption">
                 <h5>Asesorias </h5>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -104,7 +104,7 @@
             </div>
         </div>
         <div class="carousel-item ">
-            <img src="img/5.jpg" class="d-block w-100" alt="alt"/>
+            <img src="img/2.jpg" class="d-block w-100" alt="alt"/>
             <div class="carousel-caption">
                 <h5>Capcacitaciones </h5>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -118,7 +118,7 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="img/2.jpg" class="d-block w-100" alt="alt"/>
+            <img src="img/3.jpg" class="d-block w-100" alt="alt"/>
             <div class="carousel-caption">
                 <h5>Evaluacion de condiciones </h5>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -154,7 +154,7 @@
         <div class="row">
             <div class="col-lg-4 col-md-12 col-12" >
                 <div class="about-img">
-                    <img src="img/4.jpg" class="img-fluid">
+                    <img src="img/1.jpg" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
@@ -271,7 +271,7 @@
                 <div class="card text-light text-center bg-dark pb-2"> 
                     <div class="card-body text-white">
                         <div class="img-area mb-4">
-                            <img src="img/4.jpg" class="img-fluid">
+                            <img src="img/1.jpg" class="img-fluid">
                         </div>
                         <h3>Medicion Silice</h3>
                         <p class="lead">
@@ -292,7 +292,7 @@
                 <div class="card text-light text-center bg-dark pb-2"> 
                     <div class="card-body text-white">
                         <div class="img-area mb-4">
-                            <img src="img/7.gif" class="img-fluid">
+                            <img src="img/2.jpg" class="img-fluid">
                         </div>
                         <h3>Medicion ruido</h3>
                         <p class="lead">
@@ -313,7 +313,7 @@
                 <div class="card text-light text-center bg-dark pb-2"> 
                     <div class="card-body text-white">
                         <div class="img-area mb-4">
-                            <img src="img/6.gif" class="img-fluid">
+                            <img src="img/3.jpg" class="img-fluid">
                         </div>
                         <h3>Medicion radiacion</h3>
                         <p class="lead">
